@@ -1,7 +1,7 @@
 /*
 *
-* Team ID			:			3149
-* Author List		:		Samiksha Patil, Kanhaiya Gawade, Trisha Mehar, Ashish Shevale
+* Team ID			:	3149
+* Author List		:		Kanhaiya Gawade, Ashish Shevale
 * File Name			:		Path.h
 * Theme				:		Construct - O - Bot
 * Functions			:		int get_distance( int house_no, int warehouse_no ), void find_shortest_path( void ), 
